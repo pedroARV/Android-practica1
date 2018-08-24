@@ -7,26 +7,18 @@
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="4dp" />
+        android:layout_width="86dp"
+        android:layout_height="76dp"
+        android:text="añadir cliente.jpg"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="16dp" />
 
     <Button
         android:id="@+id/button2"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Button"
-        tools:layout_editor_absoluteX="274dp"
+        android:layout_width="86dp"
+        android:layout_height="76dp"
+        android:text="configuraciones.jpg"
+        tools:layout_editor_absoluteX="264dp"
         tools:layout_editor_absoluteY="16dp" />
 
-    <TextView
-        android:id="@+id/textViewPrueba"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text=""
-        android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
-       />
 </android.support.constraint.ConstraintLayout>
