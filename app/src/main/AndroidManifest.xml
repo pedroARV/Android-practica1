@@ -16,7 +16,16 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".StartActivity"></activity>
+
+        <activity android:name=".inicio">
+
+        </activity>
+        <activity android:name=".buy" />
+        <activity android:name=".car_shop" />
+        <activity android:name=".qr_lector" />
+        <activity android:name=".new_client" />
+        <activity android:name=".setings" />
+        <activity android:name=".trash"></activity>
     </application>
 
 </manifest>

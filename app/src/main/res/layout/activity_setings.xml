@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".setings">
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="285dp"
+        android:layout_height="74dp"
+        android:text="cerrar sesion"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="40dp" />
+
+    <Button
+        android:id="@+id/button6"
+        android:layout_width="285dp"
+        android:layout_height="74dp"
+        android:text="acerca de.."
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="128dp" />
+
+    <Button
+        android:id="@+id/button7"
+        android:layout_width="285dp"
+        android:layout_height="74dp"
+        android:text="terminos y condiciones"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="228dp" />
+    <Button
+        android:id="@+id/button13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="inicio"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="370dp"/>
+
+</android.support.constraint.ConstraintLayout>
