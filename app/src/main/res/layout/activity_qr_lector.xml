@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".qr_lector">
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:text="trash"
+        tools:layout_editor_absoluteX="16dp"
+        tools:layout_editor_absoluteY="415dp" />
+
+    <Button
+        android:id="@+id/button9"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:text="add car"
+        tools:layout_editor_absoluteX="148dp"
+        tools:layout_editor_absoluteY="415dp" />
+
+    <Button
+        android:id="@+id/button10"
+        android:layout_width="wrap_content"
+        android:layout_height="80dp"
+        android:text="buy"
+        tools:layout_editor_absoluteX="280dp"
+        tools:layout_editor_absoluteY="415dp" />
+
+</android.support.constraint.ConstraintLayout>
